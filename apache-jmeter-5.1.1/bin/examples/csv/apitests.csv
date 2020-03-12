@@ -1,0 +1,141 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1584013652301,10203,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,761,412,10,10,null,0,2107,0
+1584013652996,9409,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,761,412,10,10,null,0,2206,0
+1584013652698,9696,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,761,412,10,10,null,0,2217,0
+1584013652399,9983,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,780,412,10,10,null,0,2229,0
+1584013654302,10203,POST_Token,200,OK,Thread Group 1-2,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,10203,0,29
+1584013652598,9853,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,759,412,10,10,null,0,2160,0
+1584013654400,9983,POST_Token,200,OK,Thread Group 1-3,text,true,,780,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,9982,0,23
+1584013652204,10120,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,761,412,10,10,null,0,2286,0
+1584013654598,9853,POST_Token,200,OK,Thread Group 1-5,text,true,,759,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,9853,0,24
+1584013653098,9306,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,760,412,10,10,null,0,2207,0
+1584013654274,10120,POST_Token,200,OK,Thread Group 1-1,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,10120,0,46
+1584013652897,9556,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,761,412,10,10,null,0,2158,0
+1584013655098,9306,POST_Token,200,OK,Thread Group 1-10,text,true,,760,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,9306,0,24
+1584013654898,9556,POST_Token,200,OK,Thread Group 1-8,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,9556,0,24
+1584013654997,9409,POST_Token,200,OK,Thread Group 1-9,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,9409,0,24
+1584013654698,9696,POST_Token,200,OK,Thread Group 1-6,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,9696,0,24
+1584013652498,10014,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,761,412,10,10,null,0,2099,0
+1584013654500,10014,POST_Token,200,OK,Thread Group 1-4,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,10014,0,34
+1584013652797,9937,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,780,412,10,10,null,0,2002,0
+1584013654799,9937,POST_Token,200,OK,Thread Group 1-7,text,true,,780,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,9936,0,24
+1584013664611,1222,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-10,,false,,969,1353,10,10,null,0,8003,0
+1584013666613,775,GET_Totals,401,Unauthorized,Thread Group 1-10,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=da37876b-1b4e-4956-bcee-c4b8679be014,775,0,26
+1584013669388,153,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-10,text,false,,247,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=da37876b-1b4e-4956-bcee-c4b8679be014,153,0,24
+1584013671541,143,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-10,text,false,,247,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=da37876b-1b4e-4956-bcee-c4b8679be014,143,0,24
+1584013673685,151,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-10,text,false,,247,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=da37876b-1b4e-4956-bcee-c4b8679be014,151,0,24
+1584013664611,1509,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-2,,false,,912,1353,10,10,null,0,8003,0
+1584013666613,891,GET_Totals,401,Unauthorized,Thread Group 1-2,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=5dd7731a-aa2f-46ff-90ce-f4178147e247,891,0,26
+1584013669505,205,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-2,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=5dd7731a-aa2f-46ff-90ce-f4178147e247,205,0,25
+1584013671710,232,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-2,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=5dd7731a-aa2f-46ff-90ce-f4178147e247,232,0,24
+1584013673942,181,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-2,text,false,,228,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=5dd7731a-aa2f-46ff-90ce-f4178147e247,181,0,24
+1584013664611,1511,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-8,,false,,912,1353,10,10,null,0,8004,0
+1584013666613,896,GET_Totals,401,Unauthorized,Thread Group 1-8,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=b5a13bb3-534b-4dbb-881b-4c472c4aa9a5,896,0,25
+1584013669510,200,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-8,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=b5a13bb3-534b-4dbb-881b-4c472c4aa9a5,200,0,25
+1584013671710,229,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-8,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=b5a13bb3-534b-4dbb-881b-4c472c4aa9a5,229,0,24
+1584013673940,186,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-8,text,false,,228,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=b5a13bb3-534b-4dbb-881b-4c472c4aa9a5,186,0,24
+1584013664612,1595,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-4,,false,,950,1353,10,10,null,0,8002,0
+1584013666613,896,GET_Totals,401,Unauthorized,Thread Group 1-4,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=62c8fc18-0e89-4593-ab75-7fcff0bf40a8,896,0,26
+1584013669510,225,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-4,text,false,,247,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=62c8fc18-0e89-4593-ab75-7fcff0bf40a8,225,0,25
+1584013671735,245,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-4,text,false,,247,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=62c8fc18-0e89-4593-ab75-7fcff0bf40a8,244,0,24
+1584013673980,229,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-4,text,false,,228,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=62c8fc18-0e89-4593-ab75-7fcff0bf40a8,229,0,26
+1584013664611,2015,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-5,,false,,912,1353,10,10,null,0,8004,0
+1584013666613,1114,GET_Totals,401,Unauthorized,Thread Group 1-5,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=91027382-5cc5-4a8a-a619-458ad861417a,1114,0,25
+1584013669727,438,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-5,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=91027382-5cc5-4a8a-a619-458ad861417a,438,0,24
+1584013672166,279,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-5,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=91027382-5cc5-4a8a-a619-458ad861417a,279,0,41
+1584013674446,184,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-5,text,false,,228,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=91027382-5cc5-4a8a-a619-458ad861417a,184,0,24
+1584013664612,2041,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-9,,false,,912,1353,10,10,null,0,8004,0
+1584013666613,1097,GET_Totals,401,Unauthorized,Thread Group 1-9,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=ad6fa038-e8d6-4b33-bd37-70d99e0ecb19,1097,0,26
+1584013669711,443,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-9,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=ad6fa038-e8d6-4b33-bd37-70d99e0ecb19,443,0,25
+1584013672154,257,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-9,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=ad6fa038-e8d6-4b33-bd37-70d99e0ecb19,257,0,34
+1584013674412,244,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-9,text,false,,228,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=ad6fa038-e8d6-4b33-bd37-70d99e0ecb19,244,0,23
+1584013664737,1964,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-7,,true,,5289,1353,10,10,null,0,8002,0
+1584013666737,1001,GET_Totals,200,OK,Thread Group 1-7,text,true,,383,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=419d0454-3f33-4584-b39e-05327edd8f61,1001,0,24
+1584013669740,426,GET_Breakdown-Summary,200,OK,Thread Group 1-7,text,true,,1842,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=419d0454-3f33-4584-b39e-05327edd8f61,426,0,26
+1584013672166,308,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-7,text,true,,2766,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=419d0454-3f33-4584-b39e-05327edd8f61,308,0,41
+1584013674474,229,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-7,text,true,,298,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=419d0454-3f33-4584-b39e-05327edd8f61,229,0,26
+1584013664611,2374,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,5289,1353,10,10,null,0,8004,0
+1584013666613,1138,GET_Totals,200,OK,Thread Group 1-1,text,true,,401,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=67b54295-25d8-42fc-abb8-3949deb83b91,1138,0,25
+1584013669752,914,GET_Breakdown-Summary,200,OK,Thread Group 1-1,text,true,,1842,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=67b54295-25d8-42fc-abb8-3949deb83b91,914,0,27
+1584013672667,151,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-1,text,true,,2748,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=67b54295-25d8-42fc-abb8-3949deb83b91,151,0,24
+1584013674818,171,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-1,text,true,,298,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=67b54295-25d8-42fc-abb8-3949deb83b91,171,0,25
+1584013664612,2385,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,5271,1353,10,10,null,0,8001,0
+1584013666613,1112,GET_Totals,200,OK,Thread Group 1-6,text,true,,383,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=747b9105-5a0e-4a3f-9de1-647a8f49d41f,1112,0,26
+1584013669725,940,GET_Breakdown-Summary,200,OK,Thread Group 1-6,text,true,,1842,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=747b9105-5a0e-4a3f-9de1-647a8f49d41f,940,0,26
+1584013672665,153,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-6,text,true,,2748,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=747b9105-5a0e-4a3f-9de1-647a8f49d41f,153,0,26
+1584013674818,180,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-6,text,true,,298,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=747b9105-5a0e-4a3f-9de1-647a8f49d41f,180,0,25
+1584013664611,2486,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,5314,1353,10,10,null,0,8004,0
+1584013666613,1123,GET_Totals,200,OK,Thread Group 1-3,text,true,,383,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=b874611a-fb87-440d-b8d7-490039a0afed,1123,0,26
+1584013669737,429,GET_Breakdown-Summary,200,OK,Thread Group 1-3,text,true,,1867,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=b874611a-fb87-440d-b8d7-490039a0afed,428,0,24
+1584013672166,791,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-3,text,true,,2748,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=b874611a-fb87-440d-b8d7-490039a0afed,791,0,41
+1584013674957,143,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-3,text,true,,316,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=b874611a-fb87-440d-b8d7-490039a0afed,143,0,29
+1584013673836,3687,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,760,412,10,10,null,0,2008,0
+1584013674126,3404,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,761,412,10,10,null,0,2001,0
+1584013675843,3687,POST_Token,200,OK,Thread Group 1-10,text,true,,760,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3687,0,24
+1584013676126,3404,POST_Token,200,OK,Thread Group 1-8,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3404,0,35
+1584013674210,3517,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,761,412,10,10,null,0,2001,0
+1584013675101,2625,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,761,412,10,10,null,0,2002,0
+1584013676210,3517,POST_Token,200,OK,Thread Group 1-4,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3517,0,51
+1584013677102,2625,POST_Token,200,OK,Thread Group 1-3,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2625,0,28
+1584013674989,3957,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,761,412,10,10,null,0,2002,0
+1584013676990,3957,POST_Token,200,OK,Thread Group 1-1,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3957,0,29
+1584013674998,3968,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,761,412,10,10,null,0,2001,0
+1584013676998,3968,POST_Token,200,OK,Thread Group 1-6,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3968,0,26
+1584013674123,4905,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,761,412,10,10,null,0,2001,0
+1584013674657,4372,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,760,412,10,10,null,0,2000,0
+1584013676124,4905,POST_Token,200,OK,Thread Group 1-2,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4905,0,25
+1584013676657,4372,POST_Token,200,OK,Thread Group 1-9,text,true,,760,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4372,0,26
+1584013674703,4325,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,761,412,10,10,null,0,2001,0
+1584013676704,4325,POST_Token,200,OK,Thread Group 1-7,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4325,0,26
+1584013674630,5467,GetToken,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,761,412,10,10,null,0,2002,0
+1584013676631,5467,POST_Token,200,OK,Thread Group 1-5,text,true,,761,412,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,5467,0,25
+1584013679728,1024,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-4,,false,,912,1353,10,10,null,0,8004,0
+1584013679728,1024,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-3,,false,,912,1353,10,10,null,0,8004,0
+1584013681729,190,GET_Totals,401,Unauthorized,Thread Group 1-4,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=b3de75dc-4125-4991-9a9f-16ca89ad15c7,190,0,24
+1584013681729,191,GET_Totals,401,Unauthorized,Thread Group 1-3,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=d7964dfd-04d5-47aa-a667-e37f456dd069,191,0,24
+1584013683920,276,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-4,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=b3de75dc-4125-4991-9a9f-16ca89ad15c7,275,0,28
+1584013683920,275,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-3,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=d7964dfd-04d5-47aa-a667-e37f456dd069,275,0,28
+1584013686196,296,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-4,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=b3de75dc-4125-4991-9a9f-16ca89ad15c7,296,0,40
+1584013686196,296,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-3,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=d7964dfd-04d5-47aa-a667-e37f456dd069,296,0,40
+1584013688493,262,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-4,text,false,,228,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=b3de75dc-4125-4991-9a9f-16ca89ad15c7,262,0,26
+1584013688493,262,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-3,text,false,,228,345,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=d7964dfd-04d5-47aa-a667-e37f456dd069,262,0,26
+1584013679531,1227,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-8,,true,,5296,1353,8,8,null,0,8003,0
+1584013681532,379,GET_Totals,200,OK,Thread Group 1-8,text,true,,383,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=61fc8196-e1a4-446a-ac17-06aee5b24ffe,379,0,25
+1584013683911,284,GET_Breakdown-Summary,200,OK,Thread Group 1-8,text,true,,1867,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=61fc8196-e1a4-446a-ac17-06aee5b24ffe,284,0,30
+1584013686196,296,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-8,text,true,,2748,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=61fc8196-e1a4-446a-ac17-06aee5b24ffe,296,0,40
+1584013688493,268,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-8,text,true,,298,345,8,8,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=61fc8196-e1a4-446a-ac17-06aee5b24ffe,268,0,26
+1584013679531,1955,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-10,,true,,5289,1353,7,7,null,0,8002,0
+1584013681532,379,GET_Totals,200,OK,Thread Group 1-10,text,true,,383,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=b9f44ace-5ff1-48e8-8b09-ad0069f5467b,379,0,25
+1584013683911,767,GET_Breakdown-Summary,200,OK,Thread Group 1-10,text,true,,1842,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=b9f44ace-5ff1-48e8-8b09-ad0069f5467b,767,0,30
+1584013686679,653,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-10,text,true,,2748,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=b9f44ace-5ff1-48e8-8b09-ad0069f5467b,653,0,24
+1584013689332,156,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-10,text,true,,316,345,7,7,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=b9f44ace-5ff1-48e8-8b09-ad0069f5467b,156,0,24
+1584013681030,984,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-7,,false,,912,1353,6,6,null,0,8002,0
+1584013683030,249,GET_Totals,401,Unauthorized,Thread Group 1-7,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=a5448264-885a-4c2a-b8fe-9c2b1e491ce6,249,0,25
+1584013685279,319,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-7,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=a5448264-885a-4c2a-b8fe-9c2b1e491ce6,319,0,25
+1584013687599,209,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-7,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=a5448264-885a-4c2a-b8fe-9c2b1e491ce6,209,0,23
+1584013689809,207,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-7,text,false,,228,345,6,6,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=a5448264-885a-4c2a-b8fe-9c2b1e491ce6,207,0,29
+1584013681030,988,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-9,,false,,912,1353,5,5,null,0,8000,0
+1584013683030,287,GET_Totals,401,Unauthorized,Thread Group 1-9,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=19ffdf56-7feb-45b7-b663-786fed16d9e8,287,0,25
+1584013685316,282,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-9,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=19ffdf56-7feb-45b7-b663-786fed16d9e8,282,0,24
+1584013687598,253,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-9,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=19ffdf56-7feb-45b7-b663-786fed16d9e8,253,0,24
+1584013689852,166,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-9,text,false,,228,345,5,5,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=19ffdf56-7feb-45b7-b663-786fed16d9e8,166,0,25
+1584013681030,1050,Dashboard_GET_Requests,401,"Number of samples in transaction : 4, number of failing samples : 4",Thread Group 1-2,,false,,931,1353,4,4,null,0,8003,0
+1584013683030,247,GET_Totals,401,Unauthorized,Thread Group 1-2,text,false,,228,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=3677a789-e1f9-4477-a4c7-9b900ac04c0b,247,0,25
+1584013685277,302,GET_Breakdown-Summary,401,Unauthorized,Thread Group 1-2,text,false,,228,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=3677a789-e1f9-4477-a4c7-9b900ac04c0b,302,0,25
+1584013687580,276,GET_Scheduled-Defects-Summary,401,Unauthorized,Thread Group 1-2,text,false,,228,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=3677a789-e1f9-4477-a4c7-9b900ac04c0b,276,0,25
+1584013689857,225,GET_Scheduled-Messages-Summary,401,Unauthorized,Thread Group 1-2,text,false,,247,345,4,4,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=3677a789-e1f9-4477-a4c7-9b900ac04c0b,225,0,28
+1584013680967,1548,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,5289,1353,3,3,null,0,8002,0
+1584013682968,283,GET_Totals,200,OK,Thread Group 1-6,text,true,,383,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=2d8f1361-2b50-4f33-839c-4ca9dc10e227,283,0,30
+1584013685251,323,GET_Breakdown-Summary,200,OK,Thread Group 1-6,text,true,,1860,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=2d8f1361-2b50-4f33-839c-4ca9dc10e227,323,0,25
+1584013687574,778,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-6,text,true,,2748,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=2d8f1361-2b50-4f33-839c-4ca9dc10e227,778,0,29
+1584013690352,164,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-6,text,true,,298,345,3,3,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=2d8f1361-2b50-4f33-839c-4ca9dc10e227,164,0,26
+1584013680948,1873,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,5271,1353,2,2,null,0,8004,0
+1584013682949,263,GET_Totals,200,OK,Thread Group 1-1,text,true,,383,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=6cf5b4fc-e909-4777-b83f-3865e2e5825e,263,0,23
+1584013685213,820,GET_Breakdown-Summary,200,OK,Thread Group 1-1,text,true,,1842,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=6cf5b4fc-e909-4777-b83f-3865e2e5825e,820,0,24
+1584013688034,642,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-1,text,true,,2748,344,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=6cf5b4fc-e909-4777-b83f-3865e2e5825e,642,0,26
+1584013690676,148,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-1,text,true,,298,345,2,2,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=6cf5b4fc-e909-4777-b83f-3865e2e5825e,148,0,24
+1584013682099,810,Dashboard_GET_Requests,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,5325,1353,1,1,null,0,8002,0
+1584013684100,180,GET_Totals,200,OK,Thread Group 1-5,text,true,,401,327,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/totals?token=d047d351-1afe-469a-907e-2481206a95a8,179,0,26
+1584013686279,219,GET_Breakdown-Summary,200,OK,Thread Group 1-5,text,true,,1860,337,10,10,http://test-hgv-api.answerappcloud.com/api/dashboard/breakdownsummary?token=d047d351-1afe-469a-907e-2481206a95a8,219,0,49
+1584013688499,262,GET_Scheduled-Defects-Summary,200,OK,Thread Group 1-5,text,true,,2748,344,8,8,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduleddefectssummary?token=d047d351-1afe-469a-907e-2481206a95a8,262,0,24
+1584013690762,149,GET_Scheduled-Messages-Summary,200,OK,Thread Group 1-5,text,true,,316,345,1,1,http://test-hgv-api.answerappcloud.com/api/dashboard/scheduledmessagessummary?token=d047d351-1afe-469a-907e-2481206a95a8,149,0,26
