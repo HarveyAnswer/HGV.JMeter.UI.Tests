@@ -1,0 +1,393 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1584115012617,1091,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-10,,true,,5640,644,2,2,null,0,93,0
+1584115012683,1091,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-10,text,true,,5640,644,2,2,http://test-hgv-api.answerappcloud.com/api/tokens/request,1090,0,51
+1584115013615,1066,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-9,,true,,5640,644,3,3,null,0,1,0
+1584115013616,1066,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-9,text,true,,5640,644,3,3,http://test-hgv-api.answerappcloud.com/api/tokens/request,1066,0,23
+1584115013802,2855,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-10,,true,,17903,543,5,5,null,0,0,0
+1584115013802,2855,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-10,text,true,,17903,543,5,5,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2855,0,0
+1584115014615,2261,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-8,,true,,5640,644,5,5,null,0,1,0
+1584115014616,2261,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-8,text,true,,5640,644,5,5,http://test-hgv-api.answerappcloud.com/api/tokens/request,2261,0,24
+1584115015616,2440,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-7,,true,,5639,644,6,6,null,0,2,0
+1584115015617,2440,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-7,text,true,,5639,644,6,6,http://test-hgv-api.answerappcloud.com/api/tokens/request,2440,0,23
+1584115016616,1462,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-6,,true,,5639,644,6,6,null,0,0,0
+1584115016616,1462,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-6,text,true,,5639,644,6,6,http://test-hgv-api.answerappcloud.com/api/tokens/request,1462,0,22
+1584115016657,1430,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-10,,true,,5638,672,6,6,null,0,6,0
+1584115016662,1430,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-10,text,true,,5638,672,6,6,http://test-hgv-api.answerappcloud.com/api/tokens/request,1430,0,22
+1584115014683,4346,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-9,,true,,17903,543,7,7,null,0,0,0
+1584115014683,4346,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-9,text,true,,17903,543,7,7,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,4346,0,0
+1584115017615,2187,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-5,,true,,5639,644,8,8,null,0,1,0
+1584115017615,2187,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-5,text,true,,5639,644,8,8,http://test-hgv-api.answerappcloud.com/api/tokens/request,2187,0,23
+1584115018615,1204,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-4,,true,,5639,644,8,8,null,0,0,0
+1584115018615,1204,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-4,text,true,,5639,644,8,8,http://test-hgv-api.answerappcloud.com/api/tokens/request,1204,0,23
+1584115019819,1525,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-4,,false,,510,543,9,9,null,0,1,0
+1584115019819,1525,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-4,text,false,,510,543,9,9,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1525,0,0
+1584115019616,1748,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-3,,true,,5639,644,9,9,null,0,1,0
+1584115019616,1748,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-3,text,true,,5639,644,9,9,http://test-hgv-api.answerappcloud.com/api/tokens/request,1748,0,22
+1584115016876,4937,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-8,,true,,17903,543,10,10,null,0,1,0
+1584115016877,4937,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-8,text,true,,17903,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,4937,0,22
+1584115019028,2826,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-9,,true,,5638,672,10,10,null,0,2,0
+1584115019029,2826,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-9,text,true,,5638,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2826,0,21
+1584115021345,1964,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-4,,true,,5640,672,10,10,null,0,1,0
+1584115021346,1964,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-4,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,1964,0,21
+1584115020615,3063,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-2,,true,,5640,644,10,10,null,0,1,0
+1584115020615,3063,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-2,text,true,,5640,644,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3063,0,23
+1584115021814,2983,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-8,,true,,5638,672,10,10,null,0,1,0
+1584115021815,2983,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-8,text,true,,5638,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2983,0,22
+1584115021856,2988,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-9,,false,,510,543,10,10,null,0,0,0
+1584115021856,2988,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-9,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2988,0,22
+1584115023310,1635,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-4,,false,,510,543,10,10,null,0,0,0
+1584115023310,1635,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-4,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1635,0,0
+1584115023679,1269,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-2,,false,,510,543,10,10,null,0,0,0
+1584115023679,1269,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-2,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1269,0,35
+1584115021615,3489,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-1,,true,,5640,644,10,10,null,0,1,0
+1584115021615,3489,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-1,text,true,,5640,644,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3489,0,23
+1584115018057,7563,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-7,,true,,17903,543,10,10,null,0,1,0
+1584115018057,7563,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-7,text,true,,17903,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,7563,0,22
+1584115024946,2265,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-4,,true,,5640,672,10,10,null,0,1,0
+1584115024946,2265,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-4,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2265,0,22
+1584115024844,2428,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-9,,true,,5639,672,10,10,null,0,0,0
+1584115024844,2428,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-9,text,true,,5639,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2428,0,30
+1584115025105,2936,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-1,,false,,510,543,10,10,null,0,0,0
+1584115025105,2936,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-1,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2935,0,22
+1584115018092,10023,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-10,,true,,17903,543,10,10,null,0,0,0
+1584115018092,10023,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-10,text,true,,17903,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,10023,0,0
+1584115018077,10038,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-6,,true,,17903,543,10,10,null,0,0,0
+1584115018077,10038,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-6,text,true,,17903,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,10038,0,0
+1584115024948,3802,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-2,,true,,5640,672,10,10,null,0,2,0
+1584115024949,3802,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-2,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3802,0,21
+1584115028041,2095,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-1,,true,,5640,672,11,11,null,0,0,0
+1584115028041,2095,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-1,text,true,,5640,672,11,11,http://test-hgv-api.answerappcloud.com/api/tokens/request,2095,0,22
+1584115025621,4578,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-7,,true,,5640,672,11,11,null,0,0,0
+1584115025621,4578,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-7,text,true,,5640,672,11,11,http://test-hgv-api.answerappcloud.com/api/tokens/request,4578,0,22
+1584115028752,1599,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-2,,false,,510,543,11,11,null,0,0,0
+1584115028752,1599,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-2,text,false,,510,543,11,11,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1599,0,21
+1584115019803,10566,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-5,,true,,17903,543,11,11,null,0,1,0
+1584115019803,10566,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-5,text,true,,17903,543,11,11,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,10566,0,22
+1584115030136,1043,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-1,,false,,510,543,11,11,null,0,2,0
+1584115030137,1043,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-1,text,false,,510,543,11,11,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1043,0,21
+1584115030199,983,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-7,,false,,510,543,11,11,null,0,1,0
+1584115030200,983,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-7,text,false,,510,543,11,11,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,983,0,22
+1584115028116,3083,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-6,,true,,5638,672,11,11,null,0,0,0
+1584115028116,3083,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-6,text,true,,5638,672,11,11,http://test-hgv-api.answerappcloud.com/api/tokens/request,3083,0,22
+1584115030352,2664,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-2,,true,,5639,672,12,12,null,0,0,0
+1584115030352,2664,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-2,text,true,,5639,672,12,12,http://test-hgv-api.answerappcloud.com/api/tokens/request,2664,0,21
+1584115028115,4930,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-10,,true,,5640,672,12,12,null,0,0,0
+1584115028115,4930,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-10,text,true,,5640,672,12,12,http://test-hgv-api.answerappcloud.com/api/tokens/request,4930,0,23
+1584115029115,4954,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-20,,true,,5640,644,12,12,null,0,1,0
+1584115029115,4954,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-20,text,true,,5640,644,12,12,http://test-hgv-api.answerappcloud.com/api/tokens/request,4954,0,23
+1584115031199,2955,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-6,,false,,510,543,13,13,null,0,0,0
+1584115031199,2955,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-6,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2955,0,22
+1584115021365,12804,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-3,,true,,17903,543,13,13,null,0,0,0
+1584115021365,12804,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-3,text,true,,17903,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,12804,0,0
+1584115033017,2420,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-2,,false,,510,543,13,13,null,0,1,0
+1584115033018,2420,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-2,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2419,0,27
+1584115033046,2392,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-10,,false,,510,543,13,13,null,0,0,0
+1584115033046,2392,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-10,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2392,0,23
+1584115031615,3828,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-19,,true,,5640,644,13,13,null,0,0,0
+1584115031615,3828,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-19,text,true,,5640,644,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,3828,0,23
+1584115034071,1383,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-20,,false,,510,543,13,13,null,0,0,0
+1584115034071,1383,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-20,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1383,0,22
+1584115030370,5501,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-5,,true,,5640,672,13,13,null,0,0,0
+1584115030370,5501,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-5,text,true,,5640,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,5501,0,34
+1584115031183,5314,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-7,,true,,5640,672,13,13,null,0,2,0
+1584115031184,5314,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-7,text,true,,5640,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,5314,0,21
+1584115031181,5320,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-1,,true,,5639,672,13,13,null,0,1,0
+1584115031181,5320,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-1,text,true,,5639,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,5320,0,24
+1584115034171,3318,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-3,,true,,5640,672,14,14,null,0,1,0
+1584115034171,3318,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-3,text,true,,5640,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3318,0,32
+1584115034155,3741,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-6,,true,,5640,672,14,14,null,0,0,0
+1584115034155,3741,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-6,text,true,,5640,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3741,0,23
+1584115034116,3796,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-18,,true,,5640,644,14,14,null,0,0,0
+1584115034116,3796,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-18,text,true,,5640,644,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3796,0,24
+1584115035444,2599,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-19,,false,,510,543,14,14,null,0,1,0
+1584115035445,2599,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-19,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2598,0,21
+1584115035872,2594,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-5,,false,,510,543,14,14,null,0,1,0
+1584115035873,2594,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-5,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2594,0,22
+1584115036500,1974,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-7,,false,,510,543,14,14,null,0,0,0
+1584115036500,1974,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-7,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1974,0,21
+1584115036503,2007,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-1,,false,,510,543,14,14,null,0,0,0
+1584115036503,2007,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-1,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2007,0,22
+1584115035438,3118,Login Process,200,,ViewingCompletedPage 1-10,,true,,5639,672,14,14,null,0,0,0
+1584115035438,3118,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-10,text,true,,5639,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3118,0,22
+1584115035438,3602,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-2,,true,,5639,672,13,13,null,0,0,0
+1584115035438,3602,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-2,text,true,,5639,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,3602,0,22
+1584115035454,3690,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-20,,true,,5640,672,14,14,null,0,0,0
+1584115035454,3690,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-20,text,true,,5640,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3690,0,21
+1584115027272,12422,Completed Tab,200,,ViewingCompletedPage 1-9,,true,,17903,543,14,14,null,0,0,0
+1584115027272,12422,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-9,text,true,,17903,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,12422,0,23
+1584115027212,12548,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-4,,true,,17903,543,13,13,null,0,0,0
+1584115027212,12548,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-4,text,true,,17903,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,12548,0,23
+1584115037490,3273,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-3,,false,,510,543,13,13,null,0,0,0
+1584115037913,2850,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-18,,false,,510,543,13,13,null,0,0,0
+1584115037913,2850,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-18,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2850,0,23
+1584115037490,3273,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-3,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3273,0,21
+1584115037896,2867,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-6,,false,,510,543,13,13,null,0,0,0
+1584115037896,2867,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-6,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2867,0,22
+1584115036615,4169,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-17,,true,,5637,644,13,13,null,0,0,0
+1584115036615,4169,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-17,text,true,,5637,644,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,4169,0,23
+1584115024798,16005,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-8,,true,,17903,543,13,13,null,0,1,0
+1584115024799,16005,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-8,text,true,,17903,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,16005,0,24
+1584115038468,3292,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-5,,true,,5640,672,14,14,null,0,0,0
+1584115038468,3292,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-5,text,true,,5640,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3292,0,22
+1584115038044,3727,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-19,,true,,5640,672,14,14,null,0,0,0
+1584115038044,3727,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-19,text,true,,5640,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3727,0,21
+1584115039040,3674,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-2,,false,,510,543,14,14,null,0,0,0
+1584115039040,3674,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-2,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3674,0,23
+1584115039144,3579,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-20,,false,,510,543,14,14,null,0,0,0
+1584115039144,3579,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-20,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3579,0,26
+1584115038474,4261,Login Process,200,,ViewingCompletedPage 1-7,,true,,5639,672,14,14,null,0,0,0
+1584115038474,4261,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-7,text,true,,5639,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,4261,0,24
+1584115038511,4231,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-1,,true,,5640,672,13,13,null,0,0,0
+1584115038511,4231,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-1,text,true,,5640,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,4231,0,22
+1584115039115,4590,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-16,,true,,5640,644,13,13,null,0,2,0
+1584115039761,3945,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-4,,true,,5640,672,13,13,null,0,1,0
+1584115039116,4590,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-16,text,true,,5640,644,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,4590,0,23
+1584115039761,3945,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-4,text,true,,5640,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,3945,0,25
+1584115041759,2896,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-5,,false,,510,543,14,14,null,0,0,0
+1584115041759,2896,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-5,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2896,0,24
+1584115040784,3871,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-17,,false,,510,543,14,14,null,0,1,0
+1584115040785,3871,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-17,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3871,0,23
+1584115042741,1930,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-1,,false,,510,543,14,14,null,0,0,0
+1584115042741,1930,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-1,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1930,0,22
+1584115040764,3917,Login Process,200,,ViewingCompletedPage 1-6,,true,,5640,672,14,14,null,0,0,0
+1584115040764,3917,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-6,text,true,,5640,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3917,0,24
+1584115040763,3919,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-3,,true,,5640,672,13,13,null,0,0,0
+1584115040763,3919,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-3,text,true,,5640,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,3919,0,21
+1584115041771,2914,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-19,,false,,510,543,13,13,null,0,0,0
+1584115041771,2914,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-19,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2914,0,21
+1584115043706,1879,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-16,,false,,510,543,13,13,null,0,0,0
+1584115043706,1879,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-4,,false,,510,543,13,13,null,0,0,0
+1584115043706,1879,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-16,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1879,0,22
+1584115043706,1879,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-4,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1879,0,22
+1584115042722,4416,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-20,,true,,5638,672,14,14,null,0,1,0
+1584115042722,4416,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-20,text,true,,5638,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,4416,0,21
+1584115044115,3026,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-14,,true,,5639,644,14,14,null,0,2,0
+1584115044117,3026,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5639,644,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,3026,0,22
+1584115040763,6386,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-18,,true,,5639,672,14,14,null,0,1,0
+1584115040764,6386,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-18,text,true,,5639,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,6386,0,20
+1584115044681,4189,Completed Tab,401,,ViewingCompletedPage 1-3,,false,,510,543,14,14,null,0,0,0
+1584115044681,4189,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-3,text,false,,510,543,14,14,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,4189,0,29
+1584115041616,7275,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-15,,true,,5639,644,13,13,null,0,2,0
+1584115041617,7275,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-15,text,true,,5639,644,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,7275,0,22
+1584115042713,6305,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-2,,true,,5639,672,13,13,null,0,0,0
+1584115042713,6305,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-2,text,true,,5639,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,6305,0,25
+1584115040805,8707,Login Process,200,,ViewingCompletedPage 1-8,,true,,5638,672,14,14,null,0,0,0
+1584115040806,8706,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-8,text,true,,5638,672,14,14,http://test-hgv-api.answerappcloud.com/api/tokens/request,8706,0,21
+1584115044656,5199,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-17,,true,,5640,672,13,13,null,0,0,0
+1584115044656,5199,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-17,text,true,,5640,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,5199,0,23
+1584115047149,3682,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-18,,false,,510,543,13,13,null,0,1,0
+1584115047150,3682,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-18,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3682,0,24
+1584115047139,3695,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-20,,false,,510,543,13,13,null,0,0,0
+1584115047139,3695,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-20,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3695,0,21
+1584115047143,3693,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-14,,false,,510,543,13,13,null,0,0,0
+1584115047143,3693,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-14,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3693,0,27
+1584115048892,1946,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-15,,false,,510,543,13,13,null,0,0,0
+1584115048892,1946,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-15,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1946,0,22
+1584115049018,1824,Completed Tab,401,,ViewingCompletedPage 1-2,,false,,510,543,13,13,null,0,0,0
+1584115044685,6157,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-19,,true,,5640,672,13,13,null,0,1,0
+1584115049018,1824,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-2,text,false,,510,543,13,13,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1824,0,22
+1584115044685,6157,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-19,text,true,,5640,672,13,13,http://test-hgv-api.answerappcloud.com/api/tokens/request,6157,0,25
+1584115044655,6204,Login Process,200,,ViewingCompletedPage 1-5,,true,,5640,672,12,12,null,0,0,0
+1584115044656,6203,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-5,text,true,,5640,672,12,12,http://test-hgv-api.answerappcloud.com/api/tokens/request,6203,0,24
+1584115049856,1015,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-17,,false,,510,543,11,11,null,0,0,0
+1584115049856,1015,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-17,text,false,,510,543,11,11,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1015,0,22
+1584115044671,6242,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-1,,true,,5638,672,11,11,null,0,1,0
+1584115044672,6242,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-1,text,true,,5638,672,11,11,http://test-hgv-api.answerappcloud.com/api/tokens/request,6242,0,29
+1584115045585,5345,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-16,,true,,5638,672,11,11,null,0,0,0
+1584115045585,5345,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-16,text,true,,5638,672,11,11,http://test-hgv-api.answerappcloud.com/api/tokens/request,5345,0,22
+1584115050843,1547,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-19,,false,,510,543,12,12,null,0,0,0
+1584115050843,1547,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-19,text,false,,510,543,12,12,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1547,0,27
+1584115050838,1572,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-15,,true,,5640,672,12,12,null,0,2,0
+1584115050839,1572,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-15,text,true,,5640,672,12,12,http://test-hgv-api.answerappcloud.com/api/tokens/request,1572,0,25
+1584115050930,2210,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-16,,false,,510,543,12,12,null,0,0,0
+1584115050930,2210,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-16,text,false,,510,543,12,12,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2210,0,21
+1584115050914,2226,Completed Tab,401,,ViewingCompletedPage 1-1,,false,,510,543,12,12,null,0,0,0
+1584115050914,2226,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-1,text,false,,510,543,12,12,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2226,0,22
+1584115045585,7576,Login Process,200,,ViewingCompletedPage 1-4,,true,,5639,672,11,11,null,0,0,0
+1584115045585,7576,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-4,text,true,,5639,672,11,11,http://test-hgv-api.answerappcloud.com/api/tokens/request,7576,0,22
+1584115050832,2539,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-18,,true,,5640,672,10,10,null,0,1,0
+1584115050833,2539,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-18,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2539,0,25
+1584115050834,3089,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-20,,true,,5640,672,10,10,null,0,1,0
+1584115050835,3089,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-20,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3089,0,23
+1584115052412,1891,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-15,,false,,510,543,10,10,null,0,1,0
+1584115052412,1891,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-15,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1891,0,0
+1584115050836,3483,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-14,,true,,5639,672,10,10,null,0,0,0
+1584115050836,3483,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5639,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3483,0,22
+1584115053372,1675,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-18,,false,,510,543,10,10,null,0,1,0
+1584115053373,1675,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-18,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1675,0,21
+1584115053924,1126,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-20,,false,,510,543,10,10,null,0,0,0
+1584115053924,1126,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-20,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1126,0,22
+1584115046615,8445,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-13,,true,,5640,644,10,10,null,0,1,0
+1584115046616,8445,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-13,text,true,,5640,644,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,8445,0,22
+1584115054319,744,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-14,,false,,510,543,10,10,null,0,0,0
+1584115054319,744,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-14,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,744,0,22
+1584115050871,4221,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-17,,true,,5640,672,10,10,null,0,2,0
+1584115050872,4221,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-17,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4221,0,21
+1584115051614,3479,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-11,,true,,5640,644,10,10,null,0,1,0
+1584115051615,3479,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-11,text,true,,5640,644,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3479,0,22
+1584115055094,156,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-17,,false,,510,543,10,10,null,0,0,0
+1584115055094,156,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-17,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,156,0,21
+1584115055094,163,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-11,,false,,510,543,10,10,null,0,0,0
+1584115055094,163,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-11,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,163,0,21
+1584115055061,212,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-13,,false,,510,543,10,10,null,0,0,0
+1584115055061,212,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-13,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,212,0,31
+1584115052390,2899,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-19,,true,,5640,672,10,10,null,0,1,0
+1584115052391,2899,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-19,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2899,0,22
+1584115049114,7846,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-12,,true,,5640,644,10,10,null,0,1,0
+1584115049115,7846,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-12,text,true,,5640,644,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,7846,0,21
+1584115055290,1873,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-19,,false,,510,543,10,10,null,0,0,0
+1584115055290,1873,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-19,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1873,0,22
+1584115055063,2117,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-14,,true,,5639,672,10,10,null,0,0,0
+1584115055063,2117,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5639,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2117,0,30
+1584115053141,4762,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-16,,true,,5638,672,10,10,null,0,0,0
+1584115053141,4762,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-16,text,true,,5638,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4762,0,20
+1584115056961,1132,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-12,,false,,510,543,10,10,null,0,0,0
+1584115056961,1132,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-12,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1132,0,23
+1584115057180,913,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-14,,false,,510,543,10,10,null,0,0,0
+1584115057180,913,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-14,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,913,0,31
+1584115055048,3044,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-18,,true,,5640,672,10,10,null,0,1,0
+1584115055049,3044,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-18,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3044,0,20
+1584115057903,193,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-16,,false,,510,543,10,10,null,0,1,0
+1584115057903,193,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-16,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,193,0,25
+1584115054304,3811,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-15,,true,,5640,672,10,10,null,0,0,0
+1584115054304,3811,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-15,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3810,0,22
+1584115055257,2862,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-11,,true,,5640,672,10,10,null,0,0,0
+1584115055257,2862,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-11,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2862,0,22
+1584115055050,3882,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-20,,true,,5640,672,10,10,null,0,0,0
+1584115055050,3882,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-20,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3882,0,26
+1584115055273,3677,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-13,,true,,5640,672,10,10,null,0,1,0
+1584115055274,3677,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-13,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3677,0,23
+1584115055251,3702,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-17,,true,,5639,672,10,10,null,0,0,0
+1584115055251,3702,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-17,text,true,,5639,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3702,0,22
+1584115057163,2141,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-19,,true,,5640,672,10,10,null,0,0,0
+1584115057163,2141,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-19,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2141,0,21
+1584115058115,2569,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-15,,true,,17903,543,10,10,null,0,0,0
+1584115058115,2569,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-15,text,true,,17903,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2569,0,23
+1584115058093,3046,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-18,,false,,510,543,10,10,null,0,2,0
+1584115058094,3046,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-18,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3046,0,21
+1584115058119,3066,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-11,,true,,17903,543,10,10,null,0,0,0
+1584115058119,3066,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-11,text,true,,17903,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3066,0,22
+1584115058097,3530,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-16,,true,,5640,672,10,10,null,0,0,0
+1584115058097,3530,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-16,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3530,0,21
+1584115058932,3161,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-20,,false,,510,543,10,10,null,0,0,0
+1584115058932,3161,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-20,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3161,0,21
+1584115058951,3155,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-13,,false,,510,543,10,10,null,0,0,0
+1584115058953,3153,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-17,,false,,510,543,10,10,null,0,0,0
+1584115058953,3153,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-17,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3153,0,21
+1584115058951,3155,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-13,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3155,0,21
+1584115059304,2801,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-19,,false,,510,543,10,10,null,0,1,0
+1584115059305,2801,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-19,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2801,0,31
+1584115058093,4020,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-14,,true,,5639,672,10,10,null,0,1,0
+1584115058094,4020,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5639,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4020,0,21
+1584115058093,4489,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-12,,true,,5640,672,10,10,null,0,0,0
+1584115058093,4489,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-12,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4489,0,22
+1584115061627,1227,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-16,,false,,510,543,10,10,null,0,0,0
+1584115061627,1227,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-16,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1227,0,25
+1584115062114,742,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-14,,false,,510,543,10,10,null,0,0,0
+1584115062114,742,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-14,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,742,0,23
+1584115061141,3826,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-18,,true,,5640,672,10,10,null,0,1,0
+1584115061141,3826,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-18,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3826,0,22
+1584115062582,2802,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-12,,false,,510,543,10,10,null,0,1,0
+1584115062582,2802,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-12,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2802,0,23
+1584115060684,4719,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-15,,true,,5640,672,10,10,null,0,0,0
+1584115060684,4719,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-15,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4719,0,83
+1584115062106,3807,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-13,,true,,5640,672,10,10,null,0,7,0
+1584115062113,3807,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-13,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3807,0,21
+1584115061185,5103,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-11,,true,,5640,672,10,10,null,0,0,0
+1584115061185,5103,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-11,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,5103,0,25
+1584115064968,1354,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-18,,false,,510,543,10,10,null,0,0,0
+1584115064968,1354,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-18,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1354,0,26
+1584115065403,921,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-15,,false,,510,543,10,10,null,0,0,0
+1584115065403,921,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-15,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,921,0,22
+1584115065921,962,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-13,,false,,510,543,10,10,null,0,0,0
+1584115065921,962,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-13,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,962,0,22
+1584115062107,4788,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-19,,true,,5640,672,10,10,null,0,0,0
+1584115062107,4788,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-19,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4788,0,21
+1584115062093,4812,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-20,,true,,5638,672,10,10,null,0,0,0
+1584115062093,4812,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-20,text,true,,5638,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4812,0,25
+1584115062106,4997,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-17,,true,,5640,672,10,10,null,0,1,0
+1584115062107,4997,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-17,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4997,0,21
+1584115066288,983,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-11,,false,,510,543,10,10,null,0,1,0
+1584115066289,983,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-11,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,983,0,22
+1584115062856,5016,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-14,,true,,5640,672,10,10,null,0,1,0
+1584115062856,5016,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,5016,0,23
+1584115066322,1563,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-18,,true,,5640,672,10,10,null,0,1,0
+1584115066323,1563,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-18,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,1563,0,21
+1584115067873,375,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-14,,false,,510,543,10,10,null,0,0,0
+1584115067873,375,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-14,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,375,0,21
+1584115067886,366,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-18,,false,,510,543,10,10,null,0,1,0
+1584115067887,366,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-18,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,366,0,0
+1584115065385,2868,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-12,,true,,5640,672,10,10,null,0,0,0
+1584115065385,2868,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-12,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2868,0,22
+1584115067104,1155,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-17,,false,,510,543,10,10,null,0,0,0
+1584115067104,1155,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-17,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1155,0,22
+1584115066324,1936,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-15,,true,,5640,672,10,10,null,0,1,0
+1584115066324,1936,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-15,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,1936,0,21
+1584115062854,5410,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-16,,true,,5640,672,10,10,null,0,0,0
+1584115062854,5410,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-16,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,5410,0,21
+1584115067272,2023,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-11,,true,,5637,672,10,10,null,0,0,0
+1584115067272,2023,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-11,text,true,,5637,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2022,0,21
+1584115068248,1754,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-14,,true,,5639,672,10,10,null,0,0,0
+1584115068248,1754,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5639,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,1754,0,23
+1584115068265,1980,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-16,,false,,510,543,10,10,null,0,0,0
+1584115068265,1980,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-16,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1980,0,21
+1584115068261,1986,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-15,,false,,510,543,10,10,null,0,0,0
+1584115068261,1986,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-15,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1986,0,0
+1584115069295,952,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-11,,false,,510,543,10,10,null,0,0,0
+1584115069295,952,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-11,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,952,0,22
+1584115070002,246,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-14,,false,,510,543,10,10,null,0,1,0
+1584115070003,246,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-14,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,246,0,0
+1584115068253,2013,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-18,,true,,5640,672,10,10,null,0,0,0
+1584115068253,2013,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-18,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,2013,0,24
+1584115066883,4087,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-13,,true,,5639,672,10,10,null,0,0,0
+1584115066883,4087,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-13,text,true,,5639,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,4087,0,21
+1584115068259,3073,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-17,,true,,5640,672,10,10,null,0,0,0
+1584115068259,3073,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-17,text,true,,5640,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,3073,0,24
+1584115070249,1791,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-14,,true,,5639,672,10,10,null,0,0,0
+1584115070249,1791,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5639,672,10,10,http://test-hgv-api.answerappcloud.com/api/tokens/request,1791,0,26
+1584115070266,2513,Completed Tab,401,,ViewingCompletedPage 1-18,,false,,510,543,10,10,null,0,0,0
+1584115070266,2513,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-18,text,false,,510,543,10,10,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,2513,0,22
+1584115070245,2541,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-16,,true,,5639,672,9,9,null,0,1,0
+1584115070246,2541,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-16,text,true,,5639,672,9,9,http://test-hgv-api.answerappcloud.com/api/tokens/request,2541,0,28
+1584115070970,1823,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-13,,false,,510,543,9,9,null,0,0,0
+1584115070970,1823,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-13,text,false,,510,543,9,9,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1823,0,22
+1584115071332,1476,Completed Tab,401,,ViewingCompletedPage 1-17,,false,,510,543,9,9,null,0,0,0
+1584115071333,1475,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-17,text,false,,510,543,9,9,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1475,0,21
+1584115072040,781,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-14,,false,,510,543,8,8,null,0,0,0
+1584115072040,781,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-14,text,false,,510,543,8,8,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,781,0,0
+1584115070247,2617,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-15,,true,,5640,672,8,8,null,0,1,0
+1584115070247,2617,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-15,text,true,,5640,672,8,8,http://test-hgv-api.answerappcloud.com/api/tokens/request,2617,0,28
+1584115070247,2928,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-11,,true,,5639,672,8,8,null,0,1,0
+1584115070248,2928,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-11,text,true,,5639,672,8,8,http://test-hgv-api.answerappcloud.com/api/tokens/request,2928,0,27
+1584115072793,1871,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-13,,true,,5640,672,8,8,null,0,0,0
+1584115072793,1871,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-13,text,true,,5640,672,8,8,http://test-hgv-api.answerappcloud.com/api/tokens/request,1871,0,21
+1584115072865,1933,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-15,,false,,510,543,8,8,null,0,0,0
+1584115072865,1933,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-15,text,false,,510,543,8,8,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1933,0,21
+1584115073176,1629,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-11,,false,,510,543,8,8,null,0,0,0
+1584115073176,1629,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-11,text,false,,510,543,8,8,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1629,0,21
+1584115072821,2005,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-14,,true,,5640,672,8,8,null,0,0,0
+1584115072821,2005,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5640,672,8,8,http://test-hgv-api.answerappcloud.com/api/tokens/request,2005,0,21
+1584115074798,1181,Login Process,200,,ViewingCompletedPage 1-15,,true,,5639,672,8,8,null,0,0,0
+1584115074799,1180,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-15,text,true,,5639,672,8,8,http://test-hgv-api.answerappcloud.com/api/tokens/request,1180,0,24
+1584115074826,1298,Completed Tab,401,"Number of samples in transaction : 1, number of failing samples : 1",ViewingCompletedPage 1-14,,false,,510,543,7,7,null,0,1,0
+1584115074826,1298,Completed_sortByAscending,401,Unauthorized,ViewingCompletedPage 1-14,text,false,,510,543,7,7,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,1298,0,22
+1584115066895,9256,Completed Tab,200,,ViewingCompletedPage 1-19,,true,,17903,543,7,7,null,0,0,0
+1584115066896,9255,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-19,text,true,,17903,543,7,7,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,9255,0,25
+1584115074805,3345,Login Process,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-11,,true,,5640,672,6,6,null,0,0,0
+1584115074805,3345,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-11,text,true,,5640,672,6,6,http://test-hgv-api.answerappcloud.com/api/tokens/request,3345,0,22
+1584115076125,2046,Login Process,200,,ViewingCompletedPage 1-14,,true,,5640,672,6,6,null,0,0,0
+1584115076125,2046,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-14,text,true,,5640,672,6,6,http://test-hgv-api.answerappcloud.com/api/tokens/request,2046,0,21
+1584115066905,11482,Completed Tab,200,,ViewingCompletedPage 1-20,,true,,17903,543,5,5,null,0,0,0
+1584115066906,11481,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-20,text,true,,17903,543,5,5,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,11481,0,21
+1584115068253,10831,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-12,,true,,17903,543,4,4,null,0,0,0
+1584115068253,10831,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-12,text,true,,17903,543,4,4,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,10831,0,23
+1584115072787,6539,Completed Tab,200,,ViewingCompletedPage 1-16,,true,,17903,543,4,4,null,0,0,0
+1584115072787,6539,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-16,text,true,,17903,543,4,4,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,6539,0,23
+1584115079084,1233,Login Process,200,,ViewingCompletedPage 1-12,,true,,5640,672,3,3,null,0,0,0
+1584115079085,1232,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-12,text,true,,5640,672,3,3,http://test-hgv-api.answerappcloud.com/api/tokens/request,1232,0,21
+1584115074664,5661,Completed Tab,200,,ViewingCompletedPage 1-13,,true,,17903,543,2,2,null,0,0,0
+1584115074664,5661,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-13,text,true,,17903,543,2,2,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,5661,0,0
+1584115078150,3124,Completed Tab,200,"Number of samples in transaction : 1, number of failing samples : 0",ViewingCompletedPage 1-11,,true,,17903,543,1,1,null,0,0,0
+1584115078150,3124,Completed_sortByAscending,200,OK,ViewingCompletedPage 1-11,text,true,,17903,543,1,1,http://test-hgv-api.answerappcloud.com/api/jobtracking/list/completed?pageNumber=1&rowsPerPage=25&sortDir=asc,3124,0,23
+1584115081274,1057,Login Process,200,,ViewingCompletedPage 1-11,,true,,5639,672,1,1,null,0,0,0
+1584115081274,1057,LoginIntoBackOffice,200,OK,ViewingCompletedPage 1-11,text,true,,5639,672,1,1,http://test-hgv-api.answerappcloud.com/api/tokens/request,1057,0,37
